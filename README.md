@@ -40,7 +40,7 @@ The Triangle class represents a triangle. It provides the following methods:
 
 Here is an example of how to use the "Triangular Area Rivalry" project:
 
-```
+```cpp
 #include <iostream>
 #include "Triangle.h"
 using namespace std;
